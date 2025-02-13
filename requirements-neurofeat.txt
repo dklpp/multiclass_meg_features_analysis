@@ -1,0 +1,11 @@
+fooof==1.1.0
+frites==0.4.4
+h5py==3.11.0
+mat73==0.65
+matplotlib==3.8.4
+matplotlib-inline==0.1.6
+networkx==3.2.1
+numpy==1.26.4
+numpydoc==1.7.0
+pandas==2.2.3
+scipy==1.13.1
